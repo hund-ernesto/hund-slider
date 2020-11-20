@@ -2,7 +2,7 @@
  
 Slider component built with React for our development purposes, but it is free to use if you like it.
 
-## Documentation
+## Documentation
 
 ### Installation
 
