@@ -14,7 +14,7 @@ By now you can find some exaple code inside the [examples folder](examples)
 
 ### Usage
 
-Final ~props~ and ~methods~ are still not defined yet but you can manage the slider behaviour using a `settings={ variable_name }` prop which must follow this convention:
+Final **props** and **methods** are still not defined yet but you can manage the slider behaviour using a `<Slider settings={ variable_name }>` prop which must follow this convention:
 
 ```javascript
 const settings = {
