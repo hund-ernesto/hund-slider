@@ -1,7 +1,8 @@
 {
   "name": "@hund-ernesto/hund-slider",
-  "version": "0.2.2",
+  "version": "0.2.4",
   "description": "A slider from hund",
+  "main": "./dist/index.js",
   "files": [
     "dist"
   ],
@@ -10,7 +11,7 @@
     "url": "https://github.com/hund-ernesto/hund-slider.git"
   },
   "publishConfig": { 
-    "registry": "https://npm.pkg.github.com/@hund-ernesto" 
+    "registry": "https://npm.pkg.github.com/" 
   },
   "scripts": {
     "start": "webpack serve --config webpack.dev.js",
