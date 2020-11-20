@@ -1,7 +1,10 @@
 {
-  "name": "hund-slider",
+  "name": "@hund-ernesto/hund-slider",
   "version": "0.0.1",
   "description": "A slider from hund",
+  "files": [
+    "dist"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/hund-ernesto/hund-slider.git"
