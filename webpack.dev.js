@@ -31,7 +31,7 @@ module.exports = merge( common, {
     })
   ],
   devServer: {
-    contentBase: path.join(__dirname, 'public'),
+    contentBase: path.join(__dirname, 'examples'),
     watchContentBase: true,
     hot: true,
     open: true,
