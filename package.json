@@ -2,7 +2,13 @@
   "name": "hund-slider",
   "version": "0.0.1",
   "description": "A slider from hund",
-  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hund-ernesto/hund-slider.git"
+  },
+  "publishConfig": { 
+    "registry": "https://npm.pkg.github.com/" 
+  },
   "scripts": {
     "start": "webpack serve --config webpack.dev.js",
     "build": "webpack --config webpack.prod.js",
